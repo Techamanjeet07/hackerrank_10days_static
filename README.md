@@ -1,0 +1,1 @@
+# hackerrank_10days_static
